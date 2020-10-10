@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQL databse connection</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="hintTxtItem">Enter an item here ...</string>
+    <string name="lblBtnAdd">Add Item</string>
+    <string name="txtEmpty">List is empty</string>
+    <string name="lblBtnDel">Delete Selected Items</string>
+</resources>
